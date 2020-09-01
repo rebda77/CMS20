@@ -18,7 +18,7 @@ namespace CanIBuyBeer
             bool canIBuyBeer = false;
             if (legg == "J" && age > 17)
             {
-                if (location == "krogen" && age > 17)
+                if (location == "krogen" && age > 15)
                 {
                     canIBuyBeer = true;
                 }
