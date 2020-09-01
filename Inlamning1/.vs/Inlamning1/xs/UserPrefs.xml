@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{BDCC599C-50C7-48D5-9F60-AE3C01A9B7F4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Inlamning1/Program.cs">
+    <Files>
+      <File FileName="Inlamning1/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Inlamning1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
